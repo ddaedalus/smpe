@@ -56,10 +56,9 @@ python3 main.py --config=smpe_lbf --env-config=gymma with env_args.time_limit=50
 
 If you are using SMPE in your research, please cite:
 ```
-@article{kontogiannis2025enhancing,
+@inproceedings{kontogiannisenhancing,
   title={Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration},
   author={Kontogiannis, Andreas and Papathanasiou, Konstantinos and Shen, Yi and Stamou, Giorgos and Zavlanos, Michael M and Vouros, George},
-  journal={arXiv preprint arXiv:2505.05262},
-  year={2025}
+  booktitle={Forty-second International Conference on Machine Learning}
 }
 ```
