@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://ddaedalus.github.io/=en" target="_blank">Andreas&nbsp;Kontogiannis</a><sup>1,2,*</sup> &ensp; <b>&middot;</b> &ensp;
+  <a href="https://ddaedalus.github.io/" target="_blank">Andreas&nbsp;Kontogiannis</a><sup>1,2,*</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://www.linkedin.com/in/konstantinos-papathanasiou-4bbb1b176/?originalSubdomain=gr" target="_blank">Konstantinos&nbsp;Papathanasiou</a><sup>3,*</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://people.duke.edu/~ys267/">Yi&nbsp;Shen</a><sup>4</sup> &ensp; <b>&middot;</b> &ensp;<br>
   <a href="https://scholar.google.nl/citations?hl=en&user=R3y5dxMAAAAJ" target="_blank">Giorgos&nbsp;Stamou</a><sup>1</sup>  <b>&middot;</b> &ensp;
